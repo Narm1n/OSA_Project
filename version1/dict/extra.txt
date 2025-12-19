@@ -1,0 +1,3 @@
+car;voiture
+dog;chien
+mother;mere

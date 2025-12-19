@@ -1,0 +1,5 @@
+hello;bonjour
+apple;pomme
+book;livre
+cat;chat
+goodbye;au revoir
